@@ -135,20 +135,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Conclusion:
 With this **Email Automation Tool**, you can easily send personalized emails to a list of recipients, manage CC functionality, and customize the content. It’s an efficient way to automate outreach for job applications, marketing, and other email communications.
-
----
-
-### How to Add This to GitHub:
-
-1. Create a **`README.md`** file in the root of your project.
-2. Copy and paste the instructions above into the `README.md` file.
-3. Add the `README.md` file to Git:
-   ```bash
-   git add README.md
-   git commit -m "Add README with project instructions"
-   git push origin master  # Or main
-   ```
-
-This will allow users to quickly understand how to set up and use the project.
-
-Let me know if you need further clarification or help!
